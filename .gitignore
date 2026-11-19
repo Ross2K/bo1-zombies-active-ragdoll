@@ -1,0 +1,7 @@
+# Binaries and packages belong in GitHub Releases, not in git.
+*.zip
+*.dll
+*.r2rpolicy
+*.pkl
+*.npz
+*.r2rchar
